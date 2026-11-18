@@ -1,16 +1,21 @@
-## Hi there 👋
+## Описание профиля 👋
+- Начинающий программист с целью углубления в Frontend, Java.
+- В поиске стажёрства/места джуниора Frontend.
 
-<!--
-**bemn/bemn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обучение
+- Бакалавр в прогрессе, Пермский Государственный Национальный Исследовательский Университет (2025 - н.в.)
+  Информационные системы и технологии
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Проекты
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <br><b><a href="https://github.com/bemn/phone-book">Телфонный справочник</a></b>
+    </td>
+    <td width="50%" valign="top">
+      <br><b><a href="https://github.com/bemn/KT2-IT">Список работников компании</a></b>
+    </td>
+  </tr>
+</table>
